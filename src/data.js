@@ -1,0 +1,25 @@
+const data = {
+    products: [
+        {   id: '1',
+            name: 'Shirt',
+            price: 90,
+            image: 'https://picsum.photos/id/399/2400/1600',
+        },
+        {   id: '2',
+            name: 'Dress',
+            price: 130,
+            image: 'https://picsum.photos/id/325/2400/1600',
+        },
+        {   id: '3',
+            name: 'Boots',
+            price: 220,
+            image: 'https://picsum.photos/id/604/2400/1600',
+        },
+        {   id: '4',
+            name: 'Skirt',
+            price: 110,
+            image: 'https://picsum.photos/id/777/2400/1600',
+        },
+    ],
+};
+export default data;
